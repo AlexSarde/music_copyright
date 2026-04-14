@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "music-copyright": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "C:\\Users\\alex9\\Desktop\\new_test\\src\\mcp-server.js"
+      ],
+      "env": {
+        "DB_PATH": "C:\\Users\\alex9\\Desktop\\new_test\\data\\copyright.json",
+        "JWT_SECRET": "change-this-to-a-long-random-secret"
+      }
+    }
+  }
+}
